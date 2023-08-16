@@ -53,12 +53,12 @@ the `/vendor` folder, and then run the `composer install` command to reinstall v
 
 - Upload all files into the root folder of your hosting (normally, it is`public_html`).
 - Create a database and import data from `database.sql` (it's located in source code).
-  ![Database](../images/installation-1.png)
+  ![Database](./images/installation-1.png)
 - Update your database credentials and `APP_URL` in `.env`.
-  ![Env](../images/installation-2.png)
+  ![Env](./images/installation-2.png)
 - Go to `/admin` to access to admin panel.
 - The default admin account is `botble` - `159357`.
-  ![Login](../images/installation-3.png)
+  ![Login](./images/installation-3.png)
 
 ### Install Locally or on a VPS
 
