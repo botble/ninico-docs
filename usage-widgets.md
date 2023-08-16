@@ -22,34 +22,34 @@ There are have four widget areas in Ninico:
 
 In the blog sidebar, you can add **Search**, **Posts** **Categories**, **Tags** widgets to this area.
 
-![Blog sidebar](./images/usage-widgets-7.png)
+![Blog sidebar](./images/usage-widgets-2.png)
 
 This area is the sidebar of the blog pages, such as the blog page, the category page, the tag page.
 
-![Blog sidebar](./images/usage-widgets-6.png)
+![Blog sidebar](./images/usage-widgets-3.png)
 
 ### Product detail sidebar
 
-![Product detail sidebar](./images/usage-widgets-8.png)
+![Product detail sidebar](./images/usage-widgets-4.png)
 
 This area is the sidebar of the product detail page. It fits to the product detail page if using the **Site features**
 widgets.
 
-![Product detail sidebar](./images/usage-widgets-9.png)
+![Product detail sidebar](./images/usage-widgets-5.png)
 
 ### Footer sidebar
 
-![Footer sidebar](./images/usage-widgets-2.png)
+![Footer sidebar](./images/usage-widgets-6.png)
 
 You can see the footer sidebar is the area circled in red. The footer sidebar have 5 columns corresponding to 5 widget
 areas. You can add **Site Information**, **Custom Menu**, **Newsletter** widgets to this area.
 
-![Footer sidebar](./images/usage-widgets-3.png)
+![Footer sidebar](./images/usage-widgets-7.png)
 
 ### Footer bottom sidebar
 
-![Footer bottom sidebar](./images/usage-widgets-4.png)
+![Footer bottom sidebar](./images/usage-widgets-8.png)
 
 In the footer bottom sidebar, you can add **CTA contact**, **Download Apps** widgets to this area.
 
-![Footer bottom sidebar](./images/usage-widgets-5.png)
+![Footer bottom sidebar](./images/usage-widgets-9.png)
