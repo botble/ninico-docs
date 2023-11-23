@@ -24,7 +24,6 @@ export default [
       { text: 'Menu', link: '/ninico/usage-menu' },
       { text: 'Theme options', link: '/ninico/usage-theme-options' },
       { text: 'Widgets', link: '/ninico/usage-widgets' },
-      { text: 'Rename theme', link: '/ninico/theme-rename' },
       { text: 'Custom CSS/JS', link: '/ninico/usage-custom-css-js' },
       { text: 'Translation', link: '/ninico/usage-translation' },
       { text: 'Multi-language', link: '/ninico/usage-multi-language' },
@@ -41,4 +40,10 @@ export default [
       { text: 'Ads', link: '/ninico/usage-ads' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/ninico/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[]
