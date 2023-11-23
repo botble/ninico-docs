@@ -28,13 +28,11 @@ export default [
       { text: 'Custom CSS/JS', link: '/ninico/usage-custom-css-js' },
       { text: 'Translation', link: '/ninico/usage-translation' },
       { text: 'Multi-language', link: '/ninico/usage-multi-language' },
-      { text: 'Location', link: '/ninico/usage-location' },
       { text: 'Google Analytics', link: '/ninico/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/ninico/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/ninico/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/ninico/usage-media-wasabi' },
       { text: 'Setup email', link: '/ninico/usage-email' },
-      { text: 'Backup', link: '/ninico/plugin-backup' },
 
       { text: 'Currencies', link: '/ninico/usage-currencies' },
       { text: 'Setup social login', link: '/ninico/usage-social-login' },
