@@ -32,12 +32,12 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/ninico/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/ninico/usage-media-wasabi' },
       { text: 'Setup email', link: '/ninico/usage-email' },
-
       { text: 'Currencies', link: '/ninico/usage-currencies' },
       { text: 'Setup social login', link: '/ninico/usage-social-login' },
       { text: 'Location', link: '/ninico/usage-location' },
       { text: 'Invoice template', link: '/ninico/invoice-template' },
       { text: 'Ads', link: '/ninico/usage-ads' },
+      { text: 'Setup cronjob', link: '/ninico/cronjob' },
     ],
   },
   {
