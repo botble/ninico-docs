@@ -38,6 +38,7 @@ export default [
       { text: 'Invoice template', link: '/ninico/invoice-template' },
       { text: 'Ads', link: '/ninico/usage-ads' },
       { text: 'Setup cronjob', link: '/ninico/cronjob' },
+      { text: 'Newsletter', link: '/ninico/usage-newsletter' },
     ],
   },
   {
