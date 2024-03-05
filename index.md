@@ -23,7 +23,7 @@ our user page contact form [here](https://codecanyon.net.net/user/botble). We're
 
 - **Homepage:** [https://ninico.botble.com](https://ninico.botble.com)
 - **Admin Panel:** [https://ninico.botble.com/admin](https://ninico.botble.com/admin)
-- **Admin Account:** `botble`/`159357` (username & password are autofilled)
+- **Admin Account:** `admin`/`12345678` (username & password are autofilled)
 - **Customer Login Page:** [https://ninico.botble.com/login](https://ninico.botble.com/login)
 - **Customer Account:** `john.smith@botble.com`/`12345678`
 
